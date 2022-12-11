@@ -2,7 +2,9 @@
   "name": "backend_deploy",
   "version": "1.0.0",
   "description": "",
-  "scripts": {},
+  "scripts": {
+    "start": "index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jayprakashlohar/backend_deploy.git"
