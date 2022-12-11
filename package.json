@@ -1,21 +1,14 @@
 {
-  "name": "backend_deploy",
+  "name": "crud",
   "version": "1.0.0",
   "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jayprakashlohar/backend_deploy.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jayprakashlohar/backend_deploy/issues"
-  },
-  "homepage": "https://github.com/jayprakashlohar/backend_deploy#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "cors": "^2.8.5",
